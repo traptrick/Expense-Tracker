@@ -16,6 +16,9 @@ h1 {
   width: 20%;
 }
 
+ul, li{
+  width: 200%;
+}
 @media screen and (max-width: 550px) {
   .container {
     display: flex;
